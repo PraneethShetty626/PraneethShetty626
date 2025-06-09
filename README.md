@@ -20,7 +20,7 @@ I'm **Praneeth**, a Bangalore-based engineer passionate about building **scalabl
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,dart,flutter,react,postgres,mongodb,docker,kubernetes,gcp,aws,firebase,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=java,go,dart,flutter,react,javascript,typescript,html,css,postgres,mongodb,docker,kubernetes,gcp,aws,firebase,bash,linux" />
 </p>
 
 ---
