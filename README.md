@@ -29,7 +29,7 @@ I'm **Praneeth**, a Bangalore-based engineer passionate about building **scalabl
 
 | ⚡ Project | 🧠 TL;DR | 🔗 |
 |----------|---------|----|
-| 🔐 [SafePass](https://github.com/PraneethShetty626/safepass) | An offline, encrypted CLI password manager built in Go. Your secrets. Your control. | `Go · CLI · Crypto` |
+| 🔐 [SafePass](https://praneethshetty626.github.io/safepass/) | An offline, encrypted CLI password manager built in Go. Your secrets. Your control. | `Go · CLI · Crypto` |
 | 🧾 [Auptra](https://auptra.com) [[PlayStore](https://play.google.com/store/apps/details?id=com.purposedevelopers.auptra)] | One dashboard to manage all your accounts. | `Flutter · Firebase · Ledger` |
 | 📸 [PhotoDiary](https://play.google.com/store/apps/details?id=com.first.localstore) | Personal digital diary for memories & notes. | `Flutter · Firebase` |
 | 👷 [Shramigo](https://shramigo.com) | Hiring platform for the next billion blue-collar workers. | `Flutter · Web · Firebase` |
